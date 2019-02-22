@@ -1,10 +1,8 @@
 # Hardware-Based-Malware-Detection
 Python script which collects Hardware Performance Counters in a text file by executing malware inside LXC containers.
 
-############
 This work is part of my MS Thesis for Analyzing Hardware Based Malware Detectors using Machine Learning Techniques 
 
-############
 The Repo contains 3 python scripts named: 
 1. Container
 2. DataParser
